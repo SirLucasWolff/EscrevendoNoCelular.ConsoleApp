@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GerarMensagem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelaInicial.cs" />
+    <Compile Include="ValorDasLetras.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
